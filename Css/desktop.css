@@ -1,5 +1,6 @@
 
 
+
 *{
     margin:0px;
     padding:0px;
@@ -243,7 +244,7 @@ opacity:0.4;
         border:1px solid grey;
         display:block;
         width:100%;
-        padding-1opx;
+        padding:10px;
         background-color: #f1f1f1;
         font-weight:bold;
     }
